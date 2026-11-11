@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Satishkumar
 
-MS Marketing Analytics student at the **Illinois Institute of Technology**. I turn marketing and customer data into decisions, and I make a habit of checking whether a result is really as good as it looks. Open to marketing and data analyst roles.
+MS in Marketing Analytics from the **Illinois Institute of Technology** (May 2026). I turn marketing and customer data into decisions, and I make a habit of checking whether a result is really as good as it looks. Open to data, business and marketing analyst roles, and to relocating anywhere in the US.
 
 ## Featured projects
 
@@ -19,4 +19,4 @@ MS Marketing Analytics student at the **Illinois Institute of Technology**. I tu
 
 ## Toolkit
 
-R (caret, randomForest, ranger, e1071, mclust, ggplot2) · Tableau · classification, clustering and model validation · Git and GitHub
+SQL · Python (pandas, NumPy, scikit-learn) · R (caret, randomForest, ranger, e1071, mclust, ggplot2) · Tableau · Power BI · Excel · classification, clustering and model validation · Git and GitHub
